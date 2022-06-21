@@ -3,11 +3,11 @@
 
 ### 💻 Programming Languages I've worked on
 
-- *Java, JavaScript, Python.*
+- *Java, Python.*
 
 ### 🕸 Web-Development Languages I've worked on
 
-- *HTML, CSS, PHP.*
+- *HTML, CSS, PHP, JavaScript, ReactJs.*
 
 ### ![databases](https://user-images.githubusercontent.com/76783878/137024581-6cb0932e-188b-44e3-85af-c32ce1db13dc.png) Databases I've worked on 
 
