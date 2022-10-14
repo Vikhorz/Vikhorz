@@ -3,7 +3,7 @@
 
 ### 💻 Programming Languages I've worked on
 
-- *Java, Python.*
+- *Java ☕️, Python 🐍, Dart 🎯*
 
 ### 🕸 Web-Development Languages I've worked on
 
