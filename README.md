@@ -11,7 +11,7 @@
 
 ### ![databases](https://user-images.githubusercontent.com/76783878/137024581-6cb0932e-188b-44e3-85af-c32ce1db13dc.png) Databases I've worked on 
 
-- *MySQL, Oracle Database, FirebaseFirestore, SQflite.*
+- *MySQL, Oracle Database, FirebaseFirestore, SQflite, SQLite3.*
 <!---
 Vikhorz/Vikhorz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
