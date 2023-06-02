@@ -7,7 +7,7 @@
 
 ### 🕸 📱 Web & App Development Languages I've worked on
 
-- *HTML, CSS, PHP, JavaScript, ReactJs, Dart (Flutter).*
+- *HTML, CSS, PHP, JavaScript, ReactJs, Dart (Flutter), Django (Python Framework).*
 
 ### ![databases](https://user-images.githubusercontent.com/76783878/137024581-6cb0932e-188b-44e3-85af-c32ce1db13dc.png) Databases I've worked on 
 
